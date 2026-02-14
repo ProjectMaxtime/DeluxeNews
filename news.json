@@ -1,0 +1,6 @@
+{
+  "Newsbodytxturl": "http://localhost://test.txt",
+  "NewsHeadlinetxturl": "http://localhost://test2.txt",
+  "ImageUrl": "http://localhost://test.png",
+  "ImageSmallUrl": "http://localhost://testsmall.png"
+}
