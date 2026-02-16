@@ -1,3 +1,4 @@
-﻿# DeluxeNewsModServerData
+﻿# ShowtimeNews
 
-Server Side Configuration For Project:Deluxe
+Server Side Configuration For Project:Showtime
+
