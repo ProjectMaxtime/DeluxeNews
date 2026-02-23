@@ -1,4 +1,5 @@
-﻿# ShowtimeNews
+﻿# DeluxeNews
 
-Server Side Configuration For Project:Showtime
+Server Side Configuration For Project:Deluxe
+
 
