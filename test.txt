@@ -1,1 +1,3 @@
-0.0.2 release
+The Mod has been rebuild from the ground up 
+New features include New cosmetics like Wireframe Boxy and Voxel Grabpack
+The new charms system has been added to configure it go into lobby open customization and press the gray button
