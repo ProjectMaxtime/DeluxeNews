@@ -1,6 +1,6 @@
 {
-  "Newsbodytxturl": "https://projectmaxtime.github.io/ShowtimeNews/test.txt",
-  "NewsHeadlinetxturl": "https://projectmaxtime.github.io/ShowtimeNews/test2.txt",
-  "ImageUrl": "https://projectmaxtime.github.io/ShowtimeNews/sheit.png",
-  "ImageSmallUrl": "https://projectmaxtime.github.io/ShowtimeNews/testsmall.png"
+  "Newsbodytxturl": "https://raw.githubusercontent.com/ProjectMaxtime/DeluxeNews/refs/heads/main/test.txt",
+  "NewsHeadlinetxturl": "https://raw.githubusercontent.com/ProjectMaxtime/DeluxeNews/refs/heads/main/test2.txt",
+  "ImageUrl": "https://raw.githubusercontent.com/ProjectMaxtime/DeluxeNews/refs/heads/main/d5df16a316dbbe097a699ddd3525005c.jpg",
+  "ImageSmallUrl": "https://raw.githubusercontent.com/ProjectMaxtime/DeluxeNews/refs/heads/main/d5df16a316dbbe097a699ddd3525005c.jpg"
 }
